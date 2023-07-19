@@ -23,8 +23,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
-<p align="center">Visitantes</p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SchneiderMurilo/count.svg" /></p>
+### Visitantes
+<p>   <img alingn="center" src="https://profile-counter.glitch.me/SchneiderMurilo/count.svg" /></p>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
