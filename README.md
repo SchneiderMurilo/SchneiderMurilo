@@ -22,6 +22,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SchneiderMurilo/count.svg" /></p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+
+
 
 ![snake gif](https://github.com/SchneiderMurilo/SchneiderMurilo/blob/output/github-contribution-grid-snake.svg)
